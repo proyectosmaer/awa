@@ -1,0 +1,16 @@
+{
+  "usuarios": [
+    {
+        "id":       45225234,
+        "nombre":   "Manuel Andree Espinoza Rosas",
+        "botellas": "80",
+        "saldo":    "20"
+    },
+    {
+        "id":       20060164,
+        "nombre":   "Maria Alejandra Espinoza Rendon",
+        "botellas": "50",
+        "saldo":    "12.50"
+    }
+  ]
+}
